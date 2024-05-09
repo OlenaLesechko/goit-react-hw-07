@@ -1,0 +1,25 @@
+.wrap {
+    display: flex;
+    padding: 8px;
+    width: 300px;
+    border: 1px solid #000;
+    border-radius: 8px;
+}
+
+.text {
+    margin-bottom: 5px;
+}
+
+.btn {
+    margin-left: auto;
+    align-self: center;
+    width: 80px;
+}
+
+.div {
+    text-align: left;
+}
+
+.icon {
+    margin-right: 8px;
+}
